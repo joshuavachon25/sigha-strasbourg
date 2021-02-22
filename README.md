@@ -1,1 +1,1 @@
-# sigha-strasbourg
+# Système d'informations géographiques historiques de l'alimentation (SIGHA) de la ville de Strasbourg durant l'entre-deux-guerres
